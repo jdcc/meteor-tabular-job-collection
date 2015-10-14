@@ -10,7 +10,7 @@ Package.onUse(function (api) {
   api.use([
     'underscore',
     'templating',
-    'momentjs:moment',
+    'momentjs:moment@2.10.6',
     'aldeed:tabular@1.4.0',
     'aldeed:template-extension@3.4.3',
     'vsivsi:job-collection@1.2.3'
